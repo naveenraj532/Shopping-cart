@@ -1,0 +1,25 @@
+img{
+
+    height: 300px;
+    width: 300px;
+}
+
+.products{
+
+    display: flex;
+    flex-direction: row;
+    gap: 120px;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.description{
+
+   text-align: center;
+}
+
+h1{
+
+    text-align: center;
+}
